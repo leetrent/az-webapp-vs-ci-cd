@@ -1,0 +1,3 @@
+$ dotnet tool install -g dotnet-aspnet-codegenerator
+
+$ dotnet asobet-codegenerator razorpage -m Person -dc AppDbContext -udl outDir Pages/Person1
